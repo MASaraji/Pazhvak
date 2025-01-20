@@ -14,7 +14,7 @@ Pazhvak is a publicly available, word-level Farsi speech corpus designed for res
 
 
 ## License and Usage
-Pazhvak corpus  is released under the MIT License. See [License](licensce) for further details.
+Pazhvak corpus is released under the MIT License. See [License](licensce) for further details.
 
 
 ## Citation 
