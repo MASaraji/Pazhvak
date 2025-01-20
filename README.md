@@ -30,6 +30,7 @@ Hormozgan},
 ```
 ## Contact
 For questions, feedback, or collaborations, please contact us at:
+
 📧 m.azim.saraji@gmail.com
 
 For more information, refer to the [paper](#) or [corpus repository](https://hormozgan.ac.ir/home/index/33/91/2164).
