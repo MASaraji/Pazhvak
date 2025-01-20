@@ -1,6 +1,6 @@
 # Pazhvak: A Word-Level Farsi Speech Corpus by University of Hormozgan
 
-[Read the Paper](#) | [Access the Corpus](https://hormozgan.ac.ir/home/index/33/91/2164)
+[[Read the Paper]](#) | [[Access the Corpus]](https://hormozgan.ac.ir/home/index/33/91/2164)
 
 Pazhvak is a publicly available, word-level Farsi speech corpus designed for research and development in Farsi speech processing. 
 
