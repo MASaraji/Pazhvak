@@ -10,8 +10,7 @@ Pazhvak is a publicly available, word-level Farsi speech corpus designed for res
 - **Duration**: 56 hours of annotated audio
 
 ## Methodology
-![Steps](https://github.com/user-attachments/assets/0476323a-1915-4357-af5b-7d08e69e575e)
-
+![Steps](https://github.com/user-attachments/assets/6ad141d1-3018-41c5-81c0-b6d8cb5fb4c2)
 
 ## License and Usage
 Pazhvak corpus is released under the MIT License. See [License](licensce) for further details.
