@@ -13,7 +13,7 @@ Pazhvak is a publicly available, word-level Farsi speech corpus designed for res
 ![Steps](https://github.com/user-attachments/assets/6ad141d1-3018-41c5-81c0-b6d8cb5fb4c2)
 
 ## Samples
-[](samples/FA_16000_0006.wav)
+![Sample 1](samples/FA_16000_0006.wav)
 ## License and Usage
 Pazhvak corpus is released under the MIT License. See [License](licensce) for further details.
 
